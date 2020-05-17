@@ -2,11 +2,11 @@ Power : Same as original. Support for OG voltage regulator and/or new, less-heat
 
 Composite Video : Composite goes into a 47k resistor and then into RCA, and AV trough jumper J1 (open for RGB).
 
-RGB Video : RGB goes straight into AV. Sync goes straight into sync pin? (Need to open J1).
+RGB Video : RGB goes straight into AV. Sync goes into sync pin (Need to open J1), through a jumper for TTL/75 Ohm?
 
 Switch Video : One set to 4:3. Other one set to either composite or RGB depending on what's connected (Needs a jumper?). Check needed voltages.
 
 Audio : Goes through an amplifier? Then into AV and RCA. Support for NESRGB's audio out? (Needs a jumper)
 
 
-Other : Check how easy/difficult it is to remove old AVBox without breaking anything. Take measurements.
+Other : Check how easy/difficult it is to remove old AVBox components without breaking anything. Take measurements.

@@ -1,0 +1,3 @@
+Uses original voltage regulator (or equivalent).
+
+Uses original full bridge rectifier so the only parts to buy are resistors and capacitors?
