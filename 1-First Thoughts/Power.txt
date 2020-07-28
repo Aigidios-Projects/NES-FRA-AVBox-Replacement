@@ -1,3 +1,6 @@
 9VAC goes trough OG rectifier (with 2200µF capacitor to smooth it), then goes trough the power switch to the voltage regulator.
 
-Capacitor values TBD.
+Voltage regulator capacitors values TBD.
++5V' unneeded.
+
+https://www.element14.com/community/thread/64764/l/what-is-the-correct-way-to-replace-a-7805-voltage-regulator-w-heatsink?displayFullThread=true
